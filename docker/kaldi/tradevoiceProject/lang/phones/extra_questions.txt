@@ -1,0 +1,11 @@
+SIL SIL_B SIL_E SIL_I SIL_S
+qq_B qq_E qq_I qq_S f^_B f^_E f^_I f^_S ii_B ii_E ii_I ii_S p^_B p^_E p^_I p^_S @_B @_E @_I @_S d_B d_E d_I d_S k^_B k^_E k^_I k^_S i_B i_E i_I i_S m^_B m^_E m^_I m^_S p_B p_E p_I p_S aa_B aa_E aa_I aa_S ng^_B ng^_E ng^_I ng^_S pr_B pr_E pr_I pr_S khr_B khr_E khr_I khr_S t^_B t^_E t^_I t^_S kr_B kr_E kr_I kr_S n^_B n^_E n^_I n^_S c_B c_E c_I c_S ng_B ng_E ng_I ng_S t_B t_E t_I t_S xx_B xx_E xx_I xx_S s_B s_E s_I s_S j_B j_E j_I j_S b_B b_E b_I b_S uu_B uu_E uu_I uu_S w^_B w^_E w^_I w^_S iia_B iia_E iia_I iia_S v_B v_E v_I v_S k_B k_E k_I k_S l^_B l^_E l^_I l^_S r_B r_E r_I r_S z_B z_E z_I z_S l_B l_E l_I l_S j^_B j^_E j^_I j^_S a_B a_E a_I a_S w_B w_E w_I w_S @@_B @@_E @@_I @@_S ch_B ch_E ch_I ch_S kh_B kh_E kh_I kh_S e_B e_E e_I e_S m_B m_E m_I m_S th_B th_E th_I th_S ph_B ph_E ph_I ph_S pl_B pl_E pl_I pl_S o_B o_E o_I o_S q_B q_E q_I q_S ee_B ee_E ee_I ee_S h_B h_E h_I h_S u_B u_E u_I u_S oo_B oo_E oo_I oo_S n_B n_E n_I n_S
+qq_B f^_B ii_B p^_B @_B d_B k^_B i_B m^_B p_B aa_B ng^_B pr_B khr_B t^_B kr_B n^_B c_B ng_B t_B xx_B s_B j_B b_B uu_B w^_B iia_B v_B k_B l^_B r_B z_B l_B j^_B a_B w_B @@_B ch_B kh_B e_B m_B th_B ph_B pl_B o_B q_B ee_B h_B u_B oo_B n_B 
+qq_E f^_E ii_E p^_E @_E d_E k^_E i_E m^_E p_E aa_E ng^_E pr_E khr_E t^_E kr_E n^_E c_E ng_E t_E xx_E s_E j_E b_E uu_E w^_E iia_E v_E k_E l^_E r_E z_E l_E j^_E a_E w_E @@_E ch_E kh_E e_E m_E th_E ph_E pl_E o_E q_E ee_E h_E u_E oo_E n_E 
+qq_I f^_I ii_I p^_I @_I d_I k^_I i_I m^_I p_I aa_I ng^_I pr_I khr_I t^_I kr_I n^_I c_I ng_I t_I xx_I s_I j_I b_I uu_I w^_I iia_I v_I k_I l^_I r_I z_I l_I j^_I a_I w_I @@_I ch_I kh_I e_I m_I th_I ph_I pl_I o_I q_I ee_I h_I u_I oo_I n_I 
+qq_S f^_S ii_S p^_S @_S d_S k^_S i_S m^_S p_S aa_S ng^_S pr_S khr_S t^_S kr_S n^_S c_S ng_S t_S xx_S s_S j_S b_S uu_S w^_S iia_S v_S k_S l^_S r_S z_S l_S j^_S a_S w_S @@_S ch_S kh_S e_S m_S th_S ph_S pl_S o_S q_S ee_S h_S u_S oo_S n_S 
+SIL 
+SIL_B 
+SIL_E 
+SIL_I 
+SIL_S 

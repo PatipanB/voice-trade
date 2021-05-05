@@ -1,0 +1,55 @@
+!SIL 1.0	SIL
+กระเป๋าตัง	1.0	kr a p aa w^ t a ng^
+กระเป๋าเงิน	1.0	kr a p aa w^ ng q n^
+กราฟ	1.0	kr aa f^
+ของ	1.0	kh @@ ng^
+ของฉัน	1.0	kh @@ ng^ ch a n^
+ขึ้น	1.0	kh v n^
+คริปโต	1.0	khr i p^ t oo
+คอย	1.0	kh @ j^
+ฉัน	1.0	ch a n^
+ซูชิ	1.0	s uu ch i
+ดอร์จคอย	1.0	d @@ t^ kh @@ j^
+ดอลล่า	1.0	d @ n^ l a w^
+ทั้งหมด	1.0	th a ng^ m o t^
+ที่	1.0	th ii
+บาท	1.0	b aa t^
+บิทคอยน์	1.0	b i t^ kh @@ j^
+บีทีซี	1.0	b ii th ii s ii
+บีเอ็นบี	1.0	b ii z e n^ b ii
+มาก	1.0	m aa k^
+มากที่สุด	1.0	m aa k^ th ii s u t^
+มาย	1.0	m aa j^
+ยูเอสดอลล่าร์	1.0	j uu z ee t^ d @ n^ l aa
+ยูเอสดีที	1.0	j uu z ee t^ s a d ii th ii
+ราคา	1.0	r aa kh aa
+ลง	1.0	l o ng^
+ลิ้ง	1.0	l i ng^
+วอลเล็ต	1.0	w @@ n^ l e t^
+วันนี้	1.0	w a n^ n ii
+สกุลไทย	1.0	s a k u n^ th a j^
+สิบ	1.0	s i p^
+สุด	1.0	s u t^
+หมา	1.0	m aa
+ออเดอร์	1.0	z @@ d qq
+อะไร	1.0	z a r a j^
+อันดับ	1.0	z a n^ d a p^
+อีทีเฮช	1.0	z ii th ii h t^
+อีเธอเรียม	1.0	z ii th qq r iia m^
+เค้ก	1.0	kh ee k^
+เงินบาท	1.0	ng q n^ b aa t^
+เชนลิ้ง	1.0	ch ee n^ l i ng^
+เท่าไหร่	1.0	th a w^ r a j^
+เปลี่ยน	1.0	pl iia n^
+เป็น	1.0	p e n^
+เหรียญ	1.0	r iia n^
+เอด้า	1.0	z ee d aa
+เอ็กอาร์พี	1.0	z e k^ z aa ph ii
+แบรนด์	1.0	b xx n^
+แอลทีซี	1.0	z xx l^ th ii s ii
+โกวาจี	1.0	k oo w aa c ii
+โปรโตคอล	1.0	pr oo t oo kh @ n^
+ไทยบาท	1.0	th a j^ b aa t^
+ไบแนนซ์	1.0	b a j^ n xx n^ s
+ไลท์คอยน์	1.0	l a j^ kh @@ j^
+ไหน	1.0	n a j^

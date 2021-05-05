@@ -1,0 +1,56 @@
+!SIL SIL_S
+กระเป๋าตัง kr_B a_I p_I aa_I w^_I t_I a_I ng^_E
+กระเป๋าเงิน kr_B a_I p_I aa_I w^_I ng_I q_I n^_E
+กราฟ kr_B aa_I f^_E
+ของ kh_B @@_I ng^_E
+ของฉัน kh_B @@_I ng^_I ch_I a_I n^_E
+ขึ้น kh_B v_I n^_E
+คริปโต khr_B i_I p^_I t_I oo_E
+คอย kh_B @_I j^_E
+ฉัน ch_B a_I n^_E
+ซูชิ s_B uu_I ch_I i_E
+ดอร์จคอย d_B @@_I t^_I kh_I @@_I j^_E
+ดอลล่า d_B @_I n^_I l_I a_I w^_E
+ทั้งหมด th_B a_I ng^_I m_I o_I t^_E
+ที่ th_B ii_E
+บาท b_B aa_I t^_E
+บิทคอยน์ b_B i_I t^_I kh_I @@_I j^_E
+บีทีซี b_B ii_I th_I ii_I s_I ii_E
+บีเอ็นบี b_B ii_I z_I e_I n^_I b_I ii_E
+มาก m_B aa_I k^_E
+มากที่สุด m_B aa_I k^_I th_I ii_I s_I u_I t^_E
+มาย m_B aa_I j^_E
+ยูเอสดอลล่าร์ j_B uu_I z_I ee_I t^_I d_I @_I n^_I l_I aa_E
+ยูเอสดีที j_B uu_I z_I ee_I t^_I s_I a_I d_I ii_I th_I ii_E
+ราคา r_B aa_I kh_I aa_E
+ลง l_B o_I ng^_E
+ลิ้ง l_B i_I ng^_E
+วอลเล็ต w_B @@_I n^_I l_I e_I t^_E
+วันนี้ w_B a_I n^_I n_I ii_E
+สกุลไทย s_B a_I k_I u_I n^_I th_I a_I j^_E
+สิบ s_B i_I p^_E
+สุด s_B u_I t^_E
+หมา m_B aa_E
+ออเดอร์ z_B @@_I d_I qq_E
+อะไร z_B a_I r_I a_I j^_E
+อันดับ z_B a_I n^_I d_I a_I p^_E
+อีทีเฮช z_B ii_I th_I ii_I h_I t^_E
+อีเธอเรียม z_B ii_I th_I qq_I r_I iia_I m^_E
+เค้ก kh_B ee_I k^_E
+เงินบาท ng_B q_I n^_I b_I aa_I t^_E
+เชนลิ้ง ch_B ee_I n^_I l_I i_I ng^_E
+เท่าไหร่ th_B a_I w^_I r_I a_I j^_E
+เปลี่ยน pl_B iia_I n^_E
+เป็น p_B e_I n^_E
+เหรียญ r_B iia_I n^_E
+เอด้า z_B ee_I d_I aa_E
+เอ็กอาร์พี z_B e_I k^_I z_I aa_I ph_I ii_E
+แบรนด์ b_B xx_I n^_E
+แอลทีซี z_B xx_I l^_I th_I ii_I s_I ii_E
+โกวาจี k_B oo_I w_I aa_I c_I ii_E
+โปรโตคอล pr_B oo_I t_I oo_I kh_I @_I n^_E
+ไทยบาท th_B a_I j^_I b_I aa_I t^_E
+ไบแนนซ์ b_B a_I j^_I n_I xx_I n^_I s_E
+ไลท์คอยน์ l_B a_I j^_I kh_I @@_I j^_E
+ไหน n_B a_I j^_E
+<eps> SIL
