@@ -1,0 +1,10 @@
+version: '3.3'
+services:
+  kaldi:
+    image: "gartuu"
+  web:
+    image: "danijel3/kaldi-webrtc"
+    volumes:
+      - ${pwd}/servers.json:/server/servers.json
+    ports:
+      - "8080:8080"
