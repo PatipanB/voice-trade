@@ -67,6 +67,7 @@ export const startVoice = (setP, setDc, setMessage) => {
         if (timelimit !== 0) {
             if (evt.data.trim() !== "") {
                 globalMessage.push(evt.data);
+                setMessage(globalMessage[globalMessage.length - 1])
                 timelimit = 2
             } else {
                 timelimit = timelimit - 1
