@@ -54,9 +54,9 @@ export const startVoice = (setP, setDc, setMessage) => {
     cD.onclose = () => {
         clearInterval(dcInterval)
         console.log('Closed data channel');
-        // console.log(globalMessage)
-        // console.log(globalMessage.length - 1)
-        setMessage(globalMessage[globalMessage.length - 1])
+        console.log(globalMessage)
+        console.log(globalMessage.length - 1)
+        setMessage(globalMessage[globalMessage.length - 1] || "")
     }
 
     cD.onopen = () => {
@@ -67,7 +67,7 @@ export const startVoice = (setP, setDc, setMessage) => {
         if (timelimit !== 0) {
             if (evt.data.trim() !== "") {
                 globalMessage.push(evt.data);
-                setMessage(globalMessage[globalMessage.length - 1])
+                setMessage(globalMessage[globalMessage.length - 1] || "")
                 timelimit = 2
             } else {
                 timelimit = timelimit - 1

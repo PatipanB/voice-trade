@@ -1,0 +1,21 @@
+.Navbar {
+    background-color:#282c34;
+    height: 50px;
+    width: 100%;
+    padding-left: 20px;
+    /* position: fixed; */
+}
+
+.App-header {
+    color: white;
+    margin: auto;
+    width: 100%;
+    margin-top: 0px;
+    display: flex;
+    align-items: center;
+
+    /* border: 1px solid ; */
+    height: 50px;
+    /* border: 2px dashed #f69c55; */
+    
+}

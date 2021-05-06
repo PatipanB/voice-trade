@@ -1,0 +1,43 @@
+.Recorder{
+    display: flex;
+    flex-direction: row;
+    order: 1;
+    height: 300px;
+    justify-content: space-evenly;
+}
+
+
+
+.Start{
+    border-width: 0px;
+    border-style: none;
+    background-color: transparent;
+}
+
+.Start img{
+    width: 150px;
+}
+
+.Stop{
+    border-width: 0px;
+    border-style: none;
+    background-color: transparent;
+}
+
+.Stop img{
+    width: 150px;
+}
+
+.audio-react-recorder{
+    width: 333px;
+    align-items: center;
+    display: flex;
+}
+
+.audio-react-recorder__canvas{
+    height: 200px;
+}
+
+.audio-react-recorder__canvas canvas{
+    aspect-ratio: auto 500/150;
+}

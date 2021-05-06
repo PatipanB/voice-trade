@@ -1,31 +1,32 @@
+import React, { useState } from "react";
+import logo from './logo.svg';
 import './App.css';
-import React, { useState } from 'react'
-import { startVoice, stopVoice } from './service/kaldi.service';
-import { handleOutput } from './service/out.service';
+import Navbar from './components/navbar'
+import Recorder from './components/recorder'
+import {Price,AllPrice} from './price/price';
+import {Different, TopdiffUp, TopdiffDown, TopTenDiffUp, TopTenDiffDown} from './different/different'
+import ChangePrice from './changeprice/changeprice'
+import Account from './account/account'
+import Trade from './account/trade'
 
-const App = () => {
-  const [p, setP] = useState(null);
-  const [dc, setDc] = useState(null);
-  const [start, setStart] = useState(false);
 
-  const [message, setMessage] = useState([])
+function App() {
 
-  const startRecord = () => {
-    startVoice(setP, setDc, setMessage)
-    setStart(true)
-  }
-  const stopRecord = () => {
-    stopVoice(p, dc)
-    setStart(false)
-    handleOutput(message)
-  }
+  const [listInput, setListInput] = useState("");
 
   return (
     <div className="App">
-      <div>Kuy ASR</div>
-      {!start && <button onClick={startRecord}>speak</button>}
-      {start && <button onClick={stopRecord}>stop</button>}
-      <div>{message}</div>
+      <Navbar />
+      <div className="Background">
+      <Recorder sendInput={setListInput}/>
+      {console.log(listInput)}
+      {/* <Price/> */}
+      {/* <AllPrice/> */}
+      {/* < TopTenDiffDown/> */}
+      {/* <ChangePrice/> */}
+      {/* <Account/> */}
+      {/* <Trade/> */}
+      </div>
     </div>
   );
 }
